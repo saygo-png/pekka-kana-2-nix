@@ -1,0 +1,3 @@
+= Pekka Kana 2
+
+A Nix flake providing the https://github.com/danilolc/pk2[pekka-kana-2] package. Built from source.
